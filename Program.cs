@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            var development = "new branch";
             var name = "Serghiy";
             name = "new";
         }
